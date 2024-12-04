@@ -59,7 +59,7 @@ O **Sistema de Sequenciador Móvel** organiza a transmissão de mensagens de cli
 
    No receptor, as mensagens são entregues como:  
    \[
-   M1 \rightarrow M2 \rightarrow M3 \rightarrow M4 \rightarrow M6 \rightarrow M5
+   M1 -> M2 -> M3 -> M4 -> M6 -> M5
    \]
 
 ---
